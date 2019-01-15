@@ -28,14 +28,12 @@ After the accounts created, the next step is Sign in. Students (Holders) are req
 
 With all preceding procedures done, students' digital identities can finally make their own footprints. For example, students can directly send requests to their college to get their certificates of degree with TangleID. In other words, the issue of diploma can be digitalized to save time and money.
 
-## Contributing
-
-### Getting Started
+## Building from Source
 
 Clone the repository.
 
 ```shell
-$ git clone git@github.com:TangleID/demo-site.git
+$ git clone https://github.com/TangleID/demo-site.git
 ```
 
 Install the package dependencies.
@@ -52,5 +50,6 @@ $ yarn start
 ```
 
 ## Licensing
+
 This website is freely redistributable under the MIT License. Use of this source
 code is governed by a MIT-style license that can be found in the `LICENSE` file.
