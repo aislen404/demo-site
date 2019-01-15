@@ -1,6 +1,6 @@
 # TangleID Demo Site
 
-Tangle Demo Site is designed to illustrate how a certification website issues an claim to the identity holders.
+This sample web service is designed to illustrate how a certification website issues an claim to the identity holders with [TangleID](https://github.com/TangleID).
 
 <img src="./images/overview.png" alt="Certification Demonstration Overview" style="width: 400px; display: block; margin-bottom: 20px"/>
 
@@ -20,7 +20,7 @@ At first, students (holders) have to create new digital identities on Tangle and
 
 <img src="./images/prove_identity.png" alt="Prove Own Control of Student Identity" style="width: 400px; display: block; margin-bottom: 20px"/>
 
-After the accounts created, the next step is Sign in. Students (Holders) are required to scan the QR Codes provided by the website (http://demokits.biilabs.io:4500/) in order to decide what data will be revealed.
+After the accounts created, the next step is Sign in. Students (Holders) are required to scan the QR Codes provided by the [website](http://demokits.biilabs.io:4500/) in order to decide what data will be revealed.
 
 ### Step 3: Self-sovereign Identity Interaction
 
