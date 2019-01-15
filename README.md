@@ -1,6 +1,6 @@
 # TangleID Demo Site
 
-This sample web service is designed to illustrate how a certification website issues an claim to the identity holders with [TangleID](https://github.com/TangleID).
+This sample web service is designed to illustrate how a certification website issues verifiable claims to the identity holders with [TangleID](https://github.com/TangleID).
 
 <img src="./images/overview.png" alt="Certification Demonstration Overview" style="width: 400px; display: block; margin-bottom: 20px"/>
 
